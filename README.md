@@ -2,7 +2,7 @@
 <h3 align="left">A passionate cloud engineer from Vietnam</h3>
 
 - I’m currently learning **Google Cloud Platform**
-- Working at **VSI JSC**
+- Working at **Notional Ventures**
 - How to reach me **vinhnq241200@gmail.com**
 - A fan of **Bump of chicken**
 
