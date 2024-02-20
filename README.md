@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align="left">Hi, I'm Nguyễn Quang Vinh</h2>
+<h3 align="left">A passionate infrastructure engineer from Vietnam</h3>
 
-<!--
-**hakuno2000/hakuno2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~~- I’m currently learning **Google Cloud Platform**~~
+- How to reach me **vinhnq241200@gmail.com**
+- A fan of **Bump of chicken**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+  - <a href="https://discord.com/users/317331260747939852" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="vinhnq241200" height="30" width="40" />Discord</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp&nbsp
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>&nbsp&nbsp
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>&nbsp&nbsp
+</p>
